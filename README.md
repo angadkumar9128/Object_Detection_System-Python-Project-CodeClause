@@ -20,11 +20,12 @@ Comprehensive documentation and example scripts are provided to assist users in 
 
 With its powerful capabilities and flexibility, the Object Detection System empowers developers and researchers to create innovative solutions for a wide range of computer vision tasks.
 
-#bInstallation
+# Installation
 # Clone the repository:
 git clone  https://github.com/your_username/Object_Detection_System.git
 
 # Install dependencies:
+cd Object_Detection_System
 pip install -r requirements.txt
 Run the example scripts to get started.
 
