@@ -26,7 +26,9 @@ git clone  https://github.com/your_username/Object_Detection_System.git
 
 # Install dependencies:
 cd Object_Detection_System
+
 pip install -r requirements.txt
+
 Run the example scripts to get started.
 
 # Usage
