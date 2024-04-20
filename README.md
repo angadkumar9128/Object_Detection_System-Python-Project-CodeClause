@@ -22,7 +22,7 @@ With its powerful capabilities and flexibility, the Object Detection System empo
 
 # Installation
 # Clone the repository:
-git clone  https://github.com/your_username/Object_Detection_System.git
+git clone  https://github.com/angadkumar9128/Object_Detection_System.git
 
 # Install dependencies:
 cd Object_Detection_System
